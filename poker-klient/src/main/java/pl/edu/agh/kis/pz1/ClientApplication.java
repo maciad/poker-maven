@@ -1,7 +1,7 @@
 package pl.edu.agh.kis.pz1;
 
-public class Main {
+public class ClientApplication {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world2!");
     }
 }

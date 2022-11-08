@@ -27,7 +27,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>pl.edu.agh.kis.pz1.Main2</mainClass>
+                            <mainClass>pl.edu.agh.kis.pz1.ClientApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
